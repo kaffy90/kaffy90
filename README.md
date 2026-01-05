@@ -13,3 +13,66 @@ As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain 
 - AI-driven **ICU-based physiological monitoring** models
 
 
+## 🚀 Tech Stack & Tools
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=sql&logoColor=white)
+
+
+## 🔥 Featured Projects
+
+### [SynthOpt](https://github.com/LewisHotchkissDPUK/SynthOpt) - Contributor  
+A machine learning project for optimizing synthetic data generation, helping with data privacy and training models without compromising sensitive information.  
+- 🔍 Contributed to the development of algorithms for data synthesis and evaluation  
+- 🤖 Implemented improvements to the model's performance and accuracy
+
+### [Integrating Multimodal Data for Dementia Research](https://github.com/kaffy90/integrating-multimodal-dementia)  
+A project focused on combining multiple data types to enhance predictive models for dementia.  
+- 🧠 Integrated **neuroimaging**, **genetic**, and **clinical data**  
+- 📊 Developed machine learning models to predict dementia onset based on multimodal data
+
+### [AI-driven Early Prediction of Long-term Vascular Dementia Risk](https://github.com/kaffy90/early-prediction-dementia)  
+Leveraging **ICU-based physiological monitoring** data to predict **vascular dementia** in TBI patients.  
+- 💡 Built AI-driven predictive models to assess long-term dementia risks  
+- 🧬 Used **physiological data** to enhance prediction accuracy
+
+### [Fire Alarm System (IoT)](https://github.com/kaffy90/fire_alarm_system_physical_computing)  
+A smart fire alarm system integrated with IoT for real-time alerts.  
+- 🔥 Real-time fire detection  
+- 🌐 Web interface for monitoring
+
+### [Weather Station IoT](https://github.com/kaffy90/weather-station-IoT)  
+An IoT-based weather station that collects and visualizes weather data.  
+- 🌦 Real-time data visualization  
+- 🌍 Data collection from multiple sensors
+
+### [Fingerprint Recognition using Neural Networks](https://github.com/kaffy90/fingerprint-recognition-system-using-neural-network)  
+AI-based system for recognizing fingerprints with neural networks.  
+- 🤖 Neural network training  
+- 🧠 High accuracy on fingerprint data
+
+
+
+## 📊 GitHub Stats
+
+![Kaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaffy90&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/kaffy90/)
+- [Email](mailto:adeoye.a.kafayat@gmail.com)
+- [Personal Website](https://kaffy90.dev)
+
+## 🎮 Hobbies & Interests
+- 📚 Reading research papers in **AI** and **healthcare technology**
+- 🎮 Gaming (exploring simulation and strategy games)
+- 🌱 Growing my knowledge on **neurological health** and **AI ethics**
+
+## 🎧 Now Playing
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kaffy90&cover_image=true&theme=novatorem)](https://spotify.com)
