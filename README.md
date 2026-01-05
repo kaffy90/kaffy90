@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**kaffy90/kaffy90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Kaffy, a Data Scientist  
+I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare** and **neurological disorders**.  
 
-Here are some ideas to get you started:
+As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🎯 Current Focus
+- Early prediction of **vascular dementia** risks in TBI patients  
+- Integrating **multimodal data** for dementia research  
+- AI-driven **ICU-based physiological monitoring** models
+
 -->
