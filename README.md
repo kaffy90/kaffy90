@@ -1,9 +1,7 @@
+![Banner Image](https://images.unsplash.com/photo-1662638600476-d563fffbb072?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
 # Hi there 👋 I'm Kafayat, a Data Scientist  
-
-![Banner Image](https://images.unsplash.com/photo-1662638600476-d563fffbb072?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
 I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare** and **neurological disorders**.  
 
 As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine.
