@@ -6,8 +6,6 @@ I specialize in applying **AI**, **Machine Learning**, and **Data Science** tech
 
 As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine.
 
----
-
 ## 🎯 Current Focus
 - Early prediction of **vascular dementia** risks in TBI patients  
 - Integrating **multimodal data** for dementia research  
@@ -67,8 +65,6 @@ AI-based system for recognizing fingerprints with neural networks.
 - 🤖 Neural network training  
 - 🧠 High accuracy on fingerprint data
 
-
-
 ## 📊 GitHub Stats
 
 ![Kaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaffy90&show_icons=true&count_private=true&hide=prs&theme=radical)
@@ -83,5 +79,4 @@ AI-based system for recognizing fingerprints with neural networks.
 - 🎮 Gaming (exploring simulation and strategy games)
 - 🌱 Growing my knowledge on **neurological health** and **AI ethics**
 
-## 🎧 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kaffy90&cover_image=true&theme=novatorem)](https://spotify.com)
+
