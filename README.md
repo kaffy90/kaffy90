@@ -1,6 +1,11 @@
 
 
 # Hi there 👋 I'm Kafayat, a Data Scientist  
+
+![Banner Image](https://github.com/kaffy90/kaffy90/blob/main/assets/banner.png)
+
+![Banner Image](https://imgur.com/your-image-id)
+
 I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare** and **neurological disorders**.  
 
 As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine.
@@ -41,6 +46,7 @@ A project focused on combining multiple data types to enhance predictive models 
 Leveraging **ICU-based physiological monitoring** data to predict **vascular dementia** in TBI patients.  
 - 💡 Built AI-driven predictive models to assess long-term dementia risks  
 - 🧬 Used **physiological data** to enhance prediction accuracy
+![AI Model Demo](https://github.com/kaffy90/kaffy90/blob/main/images/ai_model_demo.gif)
 
 ### [Real-Time Big Data Analytics and AI: Methodological Approach](https://github.com/kaffy90/real-time-big-data-ai)
 This project focuses on developing a **methodological approach** to leverage **big data analytics** and **AI** for real-time decision-making processes.
@@ -75,7 +81,6 @@ AI-based system for recognizing fingerprints with neural networks.
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/kaffy90/)
 - [Email](mailto:adeoye.a.kafayat@gmail.com)
-- [Personal Website](https://kaffy90.dev)
 
 ## 🎮 Hobbies & Interests
 - 📚 Reading research papers in **AI** and **healthcare technology**
