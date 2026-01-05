@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Kafayat, a Data Scientist  
 
-![Banner Image](https://unsplash.com/photos/a-desk-with-several-monitors-o_tcYADlSt8)
+![Banner Image](https://images.unsplash.com/photo-1637060665145-88a3859edc19)
 
 I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare** and **neurological disorders**.  
 
