@@ -20,7 +20,6 @@ As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain 
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=sql&logoColor=white)
 
 
