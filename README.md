@@ -75,8 +75,8 @@ AI-based system for recognizing fingerprints with neural networks.
 - [Email](mailto:adeoye.a.kafayat@gmail.com)
 
 ## 🎮 Hobbies & Interests
-- 📚 Reading research papers in **AI** and **healthcare technology**
-- 🎮 Gaming (exploring simulation and strategy games)
-- 🌱 Growing my knowledge on **neurological health** and **AI ethics**
+- 📚 Reading 
+- 
+- 🌱 Growing my knowledge on **neurological health** 
 
 
