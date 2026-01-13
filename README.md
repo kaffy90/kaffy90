@@ -2,7 +2,7 @@
 
 
 # Hi there 👋 I'm Kafayat, a Data Scientist  
-I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare** and **neurological disorders**.  
+I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare**.  
 
 As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine.
 
