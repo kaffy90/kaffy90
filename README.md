@@ -2,9 +2,9 @@
 
 
 # Hi there 👋 I'm Kafayat, a Data Scientist  
-I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare**.  
+**I specialize in applying **AI**, **Machine Learning**, and **Data Science** techniques to solve real-world problems, particularly in **healthcare**.  
 
-As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine.
+As a contributor to **SynthOpt** and involved in **Dementia and Traumatic Brain Injury (TBI) research**, I am passionate about leveraging multimodal data to advance **early diagnosis** and **predictive models** in medicine**.
 
 ## 🎯 Current Focus
 - Early prediction of **vascular dementia** risks in TBI patients  
@@ -32,19 +32,19 @@ A machine learning project for optimizing synthetic data generation, helping wit
 
 ### [Integrating Multimodal Data for Dementia Research](https://github.com/kaffy90/integrating-multimodal-dementia)  
 A project focused on combining multiple data types to enhance predictive models for dementia.  
-- 🧠 Integrated **neuroimaging**, **genetic**, and **clinical data**  
+- 🧠 Integrated neuroimaging, genetic, and clinical data
 - 📊 Developed machine learning models to predict dementia onset based on multimodal data
 
 ### [AI-driven Early Prediction of Long-term Vascular Dementia Risk](https://github.com/kaffy90/early-prediction-dementia)  
-Leveraging **ICU-based physiological monitoring** data to predict **vascular dementia** in TBI patients.  
+Leveraging ICU-based physiological monitoring data to predict vascular dementia in TBI patients.  
 - 💡 Built AI-driven predictive models to assess long-term dementia risks  
-- 🧬 Used **physiological data** to enhance prediction accuracy
+- 🧬 Used physiological data to enhance prediction accuracy
 ![AI Model Demo](https://github.com/kaffy90/kaffy90/blob/main/images/ai_model_demo.gif)
 
 ### [Real-Time Big Data Analytics and AI: Methodological Approach](https://github.com/kaffy90/real-time-big-data-ai)
-This project focuses on developing a **methodological approach** to leverage **big data analytics** and **AI** for real-time decision-making processes.
-- 🔍 Developed models and algorithms for **real-time data processing**
-- 📊 Integrated **big data frameworks** with **AI-driven models** for optimized performance in analytics
+This project focuses on developing a methodological approach to leverage big data analytics and AI for real-time decision-making processes.
+- 🔍 Developed models and algorithms for real-time data processing
+- 📊 Integrated big data frameworks with AI-driven models for optimized performance in analytics
 
 ![Project Screenshot](https://github.com/kaffy90/kaffy90/blob/main/images/bigdata_ai_methodology.png)
 
@@ -75,7 +75,6 @@ AI-based system for recognizing fingerprints with neural networks.
 
 ## 🎮 Hobbies & Interests
 - 📚 Reading 
-- 
 - 🌱 Growing my knowledge on **neurological health** 
 
 
